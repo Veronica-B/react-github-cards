@@ -1,3 +1,21 @@
+# Git Hub Cards
+
+This app uses an Git API where if you type in a github user's unsername then they will be added to the list. The app was built with React components.
+
+## Getting Started
+Clone or download this repo onto your local machine, once you have done this, install the node packages.
+You can do this by running npm i on your command line tool.
+
+## Running the App
+In order to start the app, run **`npm start`** through the command line tool, make sure you are in the root of the directory.
+
+## Stopping the App
+In order to stop the app, hit "control" and "c" at the same time in the terminal to close the server.
+
+## Built with
+-react
+-axios
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
