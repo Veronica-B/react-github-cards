@@ -1,6 +1,6 @@
 # Git Hub Cards
 
-This app uses an Git API where if you type in a github user's unsername then they will be added to the list. The app was built with React components.
+This app uses an Git API where if you type in a github user's username then they will be added to the list. The app was built with React components.
 
 ## Getting Started
 Clone or download this repo onto your local machine, once you have done this, install the node packages.
