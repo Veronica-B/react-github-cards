@@ -13,8 +13,8 @@ In order to start the app, run **`npm start`** through the command line tool, ma
 In order to stop the app, hit "control" and "c" at the same time in the terminal to close the server.
 
 ## Built with
--react
--axios
+- react
+- axios
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
